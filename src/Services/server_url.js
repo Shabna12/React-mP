@@ -1,4 +1,4 @@
-const SERVER_URL = "http://localhost:3000"
+const SERVER_URL = "https://mp-server-5kjx.onrender.com"
 
 
 
